@@ -397,6 +397,7 @@ video {
   .footer-nav {
     justify-content: space-evenly;
   }
+
   /* grid column and row spans for wider screens */
   .gallery-span {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
